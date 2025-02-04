@@ -29,9 +29,6 @@ GSAP (GreenSock Animation Platform): For smooth animations and scroll effects.
 
 ScrollTrigger: For scroll-based animations.
 
-*Installation*
-To run this project locally, follow these steps:
-
 Usage
 Navigation: Scroll through the page to view the solar system animation, upcoming events, and contact information.
 
